@@ -3,6 +3,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/lo1tuma/eslint-plugin-mocha/master.svg?style=flat)](https://coveralls.io/r/lo1tuma/eslint-plugin-mocha)
 [![Peer Dependencies](http://img.shields.io/david/peer/lo1tuma/eslint-plugin-mocha.svg?style=flat)](https://david-dm.org/lo1tuma/eslint-plugin-mocha#info=peerDependencies&view=table)
 [![NPM Downloads](https://img.shields.io/npm/dm/eslint-plugin-mocha.svg?style=flat)](https://www.npmjs.org/package/eslint-plugin-mocha)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgnandretta%2Feslint-plugin-mocha.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgnandretta%2Feslint-plugin-mocha?ref=badge_shield)
 
 # eslint-plugin-mocha
 
@@ -35,3 +36,7 @@ The documentation of the rules can be found [here](docs/rules).
 ## When Not To Use It
 
 If you are not using mocha you should not use this plugin.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgnandretta%2Feslint-plugin-mocha.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgnandretta%2Feslint-plugin-mocha?ref=badge_large)
